@@ -1,0 +1,4 @@
+﻿  jajko.cpp
+d:\studia\5 semestr\grafika komputerowa\lab6_teksturowanie\teksturowaniejajka\teksturowaniejajka\jajko.cpp(306): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+  teksturowanieJajka.vcxproj -> D:\Studia\5 semestr\Grafika komputerowa\Lab6_Teksturowanie\teksturowanieJajka\Debug\teksturowanieJajka.exe
+  teksturowanieJajka.vcxproj -> D:\Studia\5 semestr\Grafika komputerowa\Lab6_Teksturowanie\teksturowanieJajka\Debug\teksturowanieJajka.pdb (Partial PDB)

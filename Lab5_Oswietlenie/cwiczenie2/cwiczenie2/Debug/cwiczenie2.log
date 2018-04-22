@@ -1,0 +1,6 @@
+﻿  cwiczenie2.cpp
+d:\studia\5 semestr\grafika komputerowa\lab5_oswietlenie\cwiczenie2\cwiczenie2\cwiczenie2.cpp(223): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\studia\5 semestr\grafika komputerowa\lab5_oswietlenie\cwiczenie2\cwiczenie2\cwiczenie2.cpp(235): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+d:\studia\5 semestr\grafika komputerowa\lab5_oswietlenie\cwiczenie2\cwiczenie2\cwiczenie2.cpp(241): warning C4838: konwersja z „double” do „GLfloat” wymaga konwersji zawężającej
+  cwiczenie2.vcxproj -> D:\Studia\5 semestr\Grafika komputerowa\Lab5_Oswietlenie\cwiczenie2\Debug\cwiczenie2.exe
+  cwiczenie2.vcxproj -> D:\Studia\5 semestr\Grafika komputerowa\Lab5_Oswietlenie\cwiczenie2\Debug\cwiczenie2.pdb (Partial PDB)
